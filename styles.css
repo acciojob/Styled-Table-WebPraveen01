@@ -1,1 +1,17 @@
 /* your code */
+/* th {
+  background-color: #000;
+  color: white;
+} */
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+ td,th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th{
+	background-color:navy;
+	color:white;
+}
